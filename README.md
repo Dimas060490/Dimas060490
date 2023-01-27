@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Dimas060490/Dimas060490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dimas060490/DarkFly-tool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
